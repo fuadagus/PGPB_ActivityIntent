@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ActivityIntent_Tugas</string>
+    <string name="terms_and_conditions">
+    <![CDATA[By checking the box you agree to our <font color='#525BFF'>Terms</font> and <font color='#525BFF'>Conditions</font>]]>
+</string>
+    <string name="your">Your</string>
+    <string name="has_been_registered">has been registered</string>
+    <string name="phone">phone</string>
+    <string name="has_been_activated">has been activated</string>
+    <string name="email">email</string>
+    <string name="username">username</string>
+    <string name="welcome">Welcome</string>
+    <string name="register">Register!</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="new_member">New Member?</string>
+</resources>
+
+
